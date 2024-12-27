@@ -19,5 +19,10 @@ This project is a simple chatbot built using Streamlit. It allows users to input
 2. Install Streamlit using pip
  ```bash
    pip install streamlit
-
-##Running the Application
+```
+## Running the Application
+1. Open your terminal and navigate to the project directory.
+2. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+3. The application will open in your default web browser.
