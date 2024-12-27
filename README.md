@@ -19,3 +19,5 @@ This project is a simple chatbot built using Streamlit. It allows users to input
 2. Install Streamlit using pip
  ```bash
    pip install streamlit
+
+##Running the Application
